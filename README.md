@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+### Developed by : Krithick Vivekananda
+### Register number : 212223240075
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
